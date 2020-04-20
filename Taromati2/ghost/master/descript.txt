@@ -1,0 +1,10 @@
+charset,UTF-8
+name,Taromati2
+type,ghost
+sakura.name,橘花
+kero.name,斗和
+balloon,wiz
+sstp.allowunspecifiedsend,1
+seriko.alignmenttodesktop,free
+icon,kikka.ico
+shiori,aya.dll
